@@ -11,39 +11,49 @@ Drive Link -
 LinkedIn -
 Inferences:
 
-![image](https://user-images.githubusercontent.com/111692879/187143347-5f9136bc-4d85-4620-ad1b-43b8e7de8b3c.png)
-![image](https://user-images.githubusercontent.com/111692879/187143418-a069a5f1-f9e9-498a-b9c1-d961a0800c0d.png)
-![image](https://user-images.githubusercontent.com/111692879/187143456-6123dc8f-8cc8-4714-b287-16bff4b1da22.png)
+![image](https://user-images.githubusercontent.com/111692879/187144133-fc9c4df7-3c19-419f-b822-842dc0c8a0cf.png)
+
 
 
 
 Manhattan and Brooklyn are the posh areas of NYC having high end homes and and maximum number of hosts renting out spaces.
+![image](https://user-images.githubusercontent.com/111692879/187144076-2c17acd2-7c12-42f9-80a0-b142863e0997.png)
 
 
 Southern of Manhattan and Northern of Brooklyn have high end properties
 Customers prefer Private rooms and Entire Home/Appts. over Shared rooms
 Manhattan has highest share of Private rooms and Entire Home/Appts. in culmination followed by Brooklyn
+![image](https://user-images.githubusercontent.com/111692879/187144209-a58bdda6-c3dc-46ed-8901-14641930721a.png)
 
 
 Most hosts are located in Manhattan
+![image](https://user-images.githubusercontent.com/111692879/187144270-66080ade-1709-45bb-a8a5-475cb2508e70.png)
 
 
 Customers pay highest tarrif of 10,000 USD in Manhattan, Brooklyn and Queens
 
+![image](https://user-images.githubusercontent.com/111692879/187144309-44b72468-8cff-4c88-a59f-7a6d76a17b01.png)
+
 
 Staten Island has highest availabilty of rooms over 365 days followed by Bronx
 
+![image](https://user-images.githubusercontent.com/111692879/187144368-b1305ce1-da07-4d85-a47c-b69027d282bc.png)
 
 Sonder, Blueground, Sally are the top hosts based on reviews recieved, listed properties and possible turn over generated
 Financial District which is the buzz of Manhattan has highest possible turnover from properties listed
+![image](https://user-images.githubusercontent.com/111692879/187144431-916337de-74ea-4344-823a-78a307362f2c.png)
 
 
 Shared rooms are mostly available over other room types and Entire Home /Apt which has the highest proportion of room share are mostly on the expensive ends
 
 
 High end properties are mostly Entire Home/Apt followed by Private rooms
+![image](https://user-images.githubusercontent.com/111692879/187144511-aed13fd1-6436-437b-9b05-ecb3022b9573.png)
 
 
 Staten Island though has fewer properties but the median listing price is more in its neighbourhood. 
+![image](https://user-images.githubusercontent.com/111692879/187144589-6910cd67-107d-4912-bf15-9f6f06efa759.png)
+![image](https://user-images.githubusercontent.com/111692879/187144640-9f511fe5-58c6-42f4-a989-d2ab4ab34eb5.png)
+
 Most hosts allow less than 5 days mandatory stay.The average is higher in Manhattan, Brooklyn and Queens
 ### Thank You for staying connected.
