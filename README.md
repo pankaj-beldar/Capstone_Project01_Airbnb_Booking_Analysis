@@ -48,6 +48,7 @@ Financial District which is the buzz of Manhattan has highest possible turnover 
 
 
 Shared rooms are mostly available over other room types and Entire Home /Apt which has the highest proportion of room share are mostly on the expensive ends
+![image](https://user-images.githubusercontent.com/111692879/187155408-b2adaa56-7cff-4a2d-a4a6-73f24808bac7.png)
 
 
 High end properties are mostly Entire Home/Apt followed by Private rooms
