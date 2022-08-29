@@ -7,8 +7,11 @@ These millions of listings generate a lot of data - data that can be analyzed an
 An EDA is a thorough examination meant to uncover the underlying structure of a data set and is important for a company because it exposes trends, patterns, and relationships that are not readily apparent.
 
 Git Hub Link - https://github.com/pankaj-beldar/Capstone_Project01_Airbnb_Booking_Analysis
+
 Drive Link -https://drive.google.com/drive/folders/153mybrx7S9Tds5staa8v3EO8Ytxh95qa?usp=sharing
+
 LinkedIn -https://www.linkedin.com/in/pankaj-beldar-0187a21b3/
+
 Inferences:
 
 ![image](https://user-images.githubusercontent.com/111692879/187144133-fc9c4df7-3c19-419f-b822-842dc0c8a0cf.png)
